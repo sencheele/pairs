@@ -24,3 +24,9 @@
 1. Клонируйте репозиторий:  
    `git clone https://github.com/sencheele/pairs.git`
 2. Откройте файл `index.html` в любом современном браузере.
+
+## Скриншоты
+![interface](https://github.com/user-attachments/assets/f10e8169-b618-4a3a-99ee-2c4f595ef51f)
+![game](https://github.com/user-attachments/assets/428925d3-d0fd-4e83-a1b6-5de8d7479400)
+
+
